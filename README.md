@@ -10,7 +10,7 @@ my nostalgia of it all! Me (and others) have dreamed of working
 at/with Nintendo! That is my goal! 
 
 This is a substantial video game development program and guess what!? Did you 
-know you can develop Super Mario in Python! Yes, you can! Here are the modules needed
+know you can develop Super Mario in Python (version 3.6)! Yes, you can! Here are the modules needed
 
     pip install os
     pip install sys
